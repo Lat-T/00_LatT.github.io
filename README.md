@@ -1,1 +1,1 @@
-# This repository is used to host my website: https://latyrt.github.io/00_LatyrT.github.io/
+# This repository is used to host my website: https://lat-t.github.io/00_LatT.github.io/
